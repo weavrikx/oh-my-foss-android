@@ -857,6 +857,18 @@
 
   理财管理工具：webapp、IOS、Android多平台，支持csv格式的数据导入及导出。
 
+- [WiFi 哨兵（WiFi Beacon）](https://github.com/weavrikx/wifiwarn)\*
+  [[网站](https://weavrikx.github.io/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/weavrikx/wifiwarn?style=flat"></sub>
+
+  <details>
+
+  <summary>连上指定 WiFi、同时又打开指定 App 时，弹全屏提醒把你拉回正轨。</summary><br/>
+
+  设定「目标 WiFi SSID + 目标应用包名」两个条件，同时命中才触发：提示音 + 通知 + 全屏浮窗，30 秒冷却防刷屏。适合「在家 WiFi 上管住游戏」「在公司 WiFi 上保持专注」这类场景。用 AccessibilityService 判断前台应用，无需 Root；纯本地运行，不联网、不采集数据。开源（MIT），界面中英双语。作者已说明开发过程有 AI 辅助（详见仓库 README）。
+
+  </details>
+
 #### 小工具
 
 - [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
